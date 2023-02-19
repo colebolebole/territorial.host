@@ -6,6 +6,10 @@ Public Server - http://territorialio.colebolebole.tk:82/territorial.io/index.htm
 And/Or https://TerritorialHost.colebolebole.repl.co
 
 ---
+Replit template is now availible! host your own version of territorial.host on the cloud!
+https://replit.com/@colebolebole/TerritorialHost?v=1
+
+---
 full credits go to David, creator of the amazing game! 
 
 https://www.instagram.com/davidtschacher/?hl=en
