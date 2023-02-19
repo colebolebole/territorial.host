@@ -6,6 +6,7 @@ full credits go to David, creator of the amazing game!
 https://www.instagram.com/davidtschacher/?hl=en
 
 https://territorial.io
+
 -
 to change port, simply open < Conf - nginx.conf, line 35
 
