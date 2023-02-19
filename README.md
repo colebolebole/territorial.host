@@ -6,7 +6,7 @@ Public Server - http://territorialio.colebolebole.tk:82/territorial.io/index.htm
 And/Or https://TerritorialHost.colebolebole.repl.co
 
 ---
-Replit template is now availible! host your own version of territorial.host on the cloud!
+Replit template is now available! host your own version of territorial.host on the cloud!
 https://replit.com/@colebolebole/TerritorialHost?v=1
 
 ---
