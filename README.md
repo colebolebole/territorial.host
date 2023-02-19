@@ -1,6 +1,9 @@
 # territorial.host
 A nginx server with a built in fully working territorial.io game!
 
+Public Server - http://territorialio.colebolebole.tk:82/territorial.io/index.html
+
+---
 full credits go to David, creator of the amazing game! 
 
 https://www.instagram.com/davidtschacher/?hl=en
