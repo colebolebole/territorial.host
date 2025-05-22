@@ -1,5 +1,6 @@
 # territorial.host
-A nginx server with a built in fully working territorial.io game!
+
+a self hostable version of the game territorial.io
 ---
 full credits go to David, creator of the amazing game! 
 
